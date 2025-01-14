@@ -1,0 +1,18 @@
+{
+  "domain": "shom_maree",
+  "name": "Shom Maree",
+  "version": "0.1.0",
+  "codeowners": [
+    "@juli3nk"
+  ],
+  "documentation": "https://github.com/juli3nk/ha_integration-shom_maree",
+  "issue_tracker": "https://github.com/juli3nk/ha_integration-shom_maree/issues",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "dependencies": [],
+  "requirements": [],
+  "config_flow": true,
+  "homekit": {},
+  "ssdp": [],
+  "zeroconf": []
+}
